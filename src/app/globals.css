@@ -1,26 +1,78 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@variant dark (&:where(.dark, .dark *));
 
-@theme inline {
+@theme {
+  --font-sans: var(--font-geist-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-border: var(--border);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #fafafa;
+  --foreground: #09090b;
+  --card: #ffffff;
+  --card-foreground: #09090b;
+  --border: #e4e4e7;
+  --muted: #71717a;
+  --accent: #2563eb;
+}
+
+.dark {
+  --background: #09090b;
+  --foreground: #f4f4f5;
+  --card: #121215;
+  --card-foreground: #f4f4f5;
+  --border: #27272a;
+  --muted: #a1a1aa;
+  --accent: #3b82f6;
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Ambient glow background inspired by Samuel Kraft / modern craft */
+.bg-ambient-glow {
+  background-image: 
+    radial-gradient(at 27% 10%, rgba(59, 130, 246, 0.07) 0px, transparent 50%),
+    radial-gradient(at 73% 20%, rgba(168, 85, 247, 0.05) 0px, transparent 50%),
+    radial-gradient(at 50% 80%, rgba(20, 184, 166, 0.04) 0px, transparent 60%);
+}
+
+.dark .bg-ambient-glow {
+  background-image: 
+    radial-gradient(at 27% 10%, rgba(59, 130, 246, 0.12) 0px, transparent 50%),
+    radial-gradient(at 73% 20%, rgba(168, 85, 247, 0.08) 0px, transparent 50%),
+    radial-gradient(at 50% 80%, rgba(20, 184, 166, 0.06) 0px, transparent 60%);
+}
+
+/* Subtle dot grid pattern */
+.bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+}
+
+.dark .bg-grid-pattern {
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+}
+
+/* Smooth scroll & focus states */
+html {
+  scroll-behavior: smooth;
+}
+
+:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
 }

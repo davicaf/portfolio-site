@@ -1,0 +1,82 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4672 >>
+stream
+BT /F2 18 Tf 40 800 Td (Davi Ferreira) Tj ET
+BT /F1 10 Tf 40 782 Td (Software Engineering Student | UFAM - IComp - Digital Processes Intern - Michelin Manaus) Tj ET
+BT /F1 8 Tf 40 768 Td (Manaus, AM - Brazil | Email: contato@davicaf.com | github.com/davicaf | linkedin.com/in/davicfr) Tj ET
+0.75 w 0.2 0.4 0.8 RG 40 758 m 555 758 l S
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 742 Td (PROFESSIONAL SUMMARY) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 739 m 555 739 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 727 Td (Software Engineering undergraduate at the Federal University of Amazonas \(UFAM\) and Digital Processes Intern) Tj ET
+BT /F1 8.5 Tf 40 715.5 Td (at Michelin. Proven experience developing shop-floor industrial applications \(React, Power Apps, Dataverse\),) Tj ET
+BT /F1 8.5 Tf 40 704.0 Td (gathering operator requirements, automating enterprise workflows, and structuring relational datasets) Tj ET
+BT /F1 8.5 Tf 40 692.5 Td (for manufacturing reliability and end-to-end traceability.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 674.0 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 671.0 m 555 671.0 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 659.0 Td (Michelin - Digital Processes Intern \(January 2026 - Present | Manaus, Brazil\)) Tj ET
+BT /F2 8.5 Tf 40 647.5 Td (- Industrial Press Downtime Application: Built with React and Microsoft Dataverse across 48 curing presses.) Tj ET
+BT /F1 8.5 Tf 40 636.0 Td (  Conducted user research and usability testing with operators, eliminating manual paper and spreadsheet logs.) Tj ET
+BT /F2 8.5 Tf 40 624.5 Td (- Tire Quality Inspection Application: Built with Power Apps for scrap reporting and defect inspection.) Tj ET
+BT /F1 8.5 Tf 40 613.0 Td (  Engineered logical integration linking mold identifiers directly to press production records for traceability.) Tj ET
+BT /F2 8.5 Tf 40 601.5 Td (- Built event-driven automations with Power Automate and managed SharePoint enterprise access governance.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 583.0 Td (EDUCATION) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 580.0 m 555 580.0 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 568.0 Td (Federal University of Amazonas \(UFAM\) - Institute of Computing \(IComp\)) Tj ET
+BT /F1 8.5 Tf 40 556.5 Td (B.S. in Software Engineering \(2024 - In progress | Manaus, Brazil\)) Tj ET
+BT /F2 8.5 Tf 40 545.0 Td (- Software Engineering & Dev: Fundamentals of SE, SE I & II, OOP, Software Verification & Validation, Project Management.) Tj ET
+BT /F2 8.5 Tf 40 533.5 Td (- Systems & Infrastructure: Operating Systems I, Computer Networks, Intro to Computer Organization, Advanced Programming Lab.) Tj ET
+BT /F2 8.5 Tf 40 522.0 Td (- Data & Algorithms: Algorithms & Data Structures I & II, Intro to Databases, Data Science, Programming Languages, Statistics.) Tj ET
+BT /F2 8.5 Tf 40 510.5 Td (- Ongoing \(Term 2026.2\): Design & Analysis of Algorithms, Scientific Methodology, Cybersecurity, Software Processes, Config Management.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 492.0 Td (KEY PROJECTS) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 489.0 m 555 489.0 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 477.0 Td (- Multithreaded TCP Socket Battleship in C \(C, POSIX pthreads, mutex locks, Makefile, Linux\):) Tj ET
+BT /F1 8.5 Tf 40 465.5 Td (  Concurrent client-server architecture with custom text protocol arbitrating matches between 2 clients \(UFAM 2025.1\).) Tj ET
+BT /F2 8.5 Tf 40 454.0 Td (- ENEM 2019 National Exam Data Analysis \(Python, Pandas, NumPy, Matplotlib, Jupyter Notebook\):) Tj ET
+BT /F1 8.5 Tf 40 442.5 Td (  Exploratory data analysis correlating socioeconomic indicators with academic scores on large datasets.) Tj ET
+BT /F2 8.5 Tf 40 431.0 Td (- Movie Streaming Relational Database \(MySQL, 3NF Relational Modeling, DDL/DML, Analytical Queries\).) Tj ET
+BT /F2 8.5 Tf 40 419.5 Td (- Minesweeper in C \(Dynamic Heap Memory Allocation, Recursive Flood-Fill Algorithm, Pointer Matrices\).) Tj ET
+BT /F2 8.5 Tf 40 408.0 Td (- Law Practice Web Landing Page \(React, Vite - Active development with AI assistance\).) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 389.5 Td (TECHNICAL SKILLS) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 386.5 m 555 386.5 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 374.5 Td (- Languages: C/C++, Python, JavaScript, SQL, Java.) Tj ET
+BT /F2 8.5 Tf 40 363.0 Td (- Web Engineering: React, HTML5, CSS3, Vite, Next.js, Tailwind CSS.) Tj ET
+BT /F2 8.5 Tf 40 351.5 Td (- Databases & Data: MySQL, Relational Modeling \(ERD\), Microsoft Dataverse, Pandas, NumPy, Matplotlib.) Tj ET
+BT /F2 8.5 Tf 40 340.0 Td (- Enterprise Platforms: Power Apps, Power Automate, SharePoint, Git, GitHub, Linux, Jupyter Notebook.) Tj ET
+BT /F2 8.5 Tf 40 328.5 Td (- Core CS: Concurrent Programming, TCP Sockets, Threads/Mutex, Data Structures, Algorithms.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000004975 00000 n 
+0000005045 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5120
+%%EOF

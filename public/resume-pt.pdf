@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4800 >>
+stream
+BT /F2 18 Tf 40 800 Td (Davi Ferreira) Tj ET
+BT /F1 10 Tf 40 782 Td (Estudante de Engenharia de Software | UFAM - IComp - Estagiario de Processos Digitais - Michelin Manaus) Tj ET
+BT /F1 8 Tf 40 768 Td (Manaus, AM - Brasil | Email: contato@davicaf.com | github.com/davicaf | linkedin.com/in/davicfr) Tj ET
+0.75 w 0.2 0.4 0.8 RG 40 758 m 555 758 l S
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 742 Td (RESUMO PROFISSIONAL) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 739 m 555 739 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 727 Td (Estudante de Engenharia de Software na Universidade Federal do Amazonas \(UFAM\) e estagiario de Processos) Tj ET
+BT /F1 8.5 Tf 40 715.5 Td (Digitais na Michelin. Atuacao no desenvolvimento de aplicacoes praticas para chao de fabrica \(React,) Tj ET
+BT /F1 8.5 Tf 40 704.0 Td (Power Apps e Dataverse\), levantamento de requisitos operacionais, digitalizacao de rotinas industriais e) Tj ET
+BT /F1 8.5 Tf 40 692.5 Td (estruturacao de dados relacionais para integridade e rastreabilidade na manufatura.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 674.0 Td (EXPERIENCIA PROFISSIONAL) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 671.0 m 555 671.0 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 659.0 Td (Michelin - Estagiario de Processos Digitais \(Janeiro de 2026 - Presente | Manaus, AM\)) Tj ET
+BT /F2 8.5 Tf 40 647.5 Td (- Aplicativo de Apontamento de Paradas de Prensa: Desenvolvido em React com Microsoft Dataverse,) Tj ET
+BT /F1 8.5 Tf 40 636.0 Td (  utilizado em setor fabril com 48 prensas. Conducao de levantamento de requisitos e testes com operadores.) Tj ET
+BT /F1 8.5 Tf 40 624.5 Td (  Substituicao de planilhas manuais por tabelas relacionais com alto ganho de confiabilidade.) Tj ET
+BT /F2 8.5 Tf 40 613.0 Td (- Aplicativo de Inspecao de Pneus: Desenvolvido em Power Apps para controle de qualidade e refugo.) Tj ET
+BT /F1 8.5 Tf 40 601.5 Td (  Integracao logica que resolve modelo e prensa a partir do molde, garantindo rastreabilidade fabril.) Tj ET
+BT /F2 8.5 Tf 40 590.0 Td (- Automacoes com Power Automate, administracao de governanca no SharePoint e onboarding digital.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 571.5 Td (FORMACAO ACADEMICA) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 568.5 m 555 568.5 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 556.5 Td (Universidade Federal do Amazonas \(UFAM\) - Instituto de Computacao \(IComp\)) Tj ET
+BT /F1 8.5 Tf 40 545.0 Td (Bacharelado em Engenharia de Software \(2024 - Em andamento | Manaus, AM\)) Tj ET
+BT /F2 8.5 Tf 40 533.5 Td (- Engenharia de Software e Desenvolvimento: Fundamentos de ES, ES I e II, POO, Verificacao e Validacao, Gerencia de Projetos.) Tj ET
+BT /F2 8.5 Tf 40 522.0 Td (- Sistemas e Infraestrutura: Sistemas Operacionais I, Redes de Computadores, Intro. a Org. de Computadores, Lab. Prog. Avancada.) Tj ET
+BT /F2 8.5 Tf 40 510.5 Td (- Dados e Algoritmos: AED I e II, Intro. a Banco de Dados, Ciencia de Dados, Linguagens de Programacao, Estatistica.) Tj ET
+BT /F2 8.5 Tf 40 499.0 Td (- Em andamento \(2026.2\): Projeto e Analise de Algoritmos, Metodologia Cientifica, Ciberseguranca, Proc. Desenv. Software, Gerencia Config.) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 480.5 Td (PROJETOS EM DESTAQUE) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 477.5 m 555 477.5 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 465.5 Td (- Batalha Naval Multicliente com Sockets TCP \(C, pthreads, mutex, Makefile, Linux\):) Tj ET
+BT /F1 8.5 Tf 40 454.0 Td (  Servidor concorrente multithread com protocolo textual proprio para 2 clientes simultaneos \(UFAM 2025.1\).) Tj ET
+BT /F2 8.5 Tf 40 442.5 Td (- Analise de Dados do ENEM 2019 \(Python, Pandas, NumPy, Matplotlib, Jupyter Notebook\):) Tj ET
+BT /F1 8.5 Tf 40 431.0 Td (  Processamento, limpeza e analise exploratoria de microdados socioeconomicos e desempenho escolar.) Tj ET
+BT /F2 8.5 Tf 40 419.5 Td (- Banco de Dados de Streaming \(MySQL, Modelagem Relacional 3FN, Scripts DDL/DML, Consultas SQL\).) Tj ET
+BT /F2 8.5 Tf 40 408.0 Td (- Campo Minado em C \(Alocacao Dinamica, Algoritmo Recursivo Flood-Fill, Matrizes\).) Tj ET
+BT /F2 8.5 Tf 40 396.5 Td (- Landing Page para Escritorio de Advocacia \(React, Vite - Projeto em desenvolvimento com apoio de IA\).) Tj ET
+BT /F2 11 Tf 0.1 0.2 0.5 rg 40 378.0 Td (COMPETENCIAS TECNICAS) Tj ET
+0.5 w 0.8 0.8 0.8 RG 40 375.0 m 555 375.0 l S
+0 0 0 rg
+BT /F2 8.5 Tf 40 363.0 Td (- Linguagens: C/C++, Python, JavaScript, SQL, Java.) Tj ET
+BT /F2 8.5 Tf 40 351.5 Td (- Desenvolvimento Web: React, HTML5, CSS3, Vite, Next.js, Tailwind CSS.) Tj ET
+BT /F2 8.5 Tf 40 340.0 Td (- Dados e Bancos: MySQL, Modelagem Relacional \(MER/DER\), Microsoft Dataverse, Pandas, NumPy, Matplotlib.) Tj ET
+BT /F2 8.5 Tf 40 328.5 Td (- Plataformas Corporativas: Power Apps, Power Automate, SharePoint, Git, GitHub, Linux, Jupyter.) Tj ET
+BT /F2 8.5 Tf 40 317.0 Td (- Conceitos: Programacao Concorrente, Sockets TCP, Threads/Mutex, Estruturas de Dados, Algoritmos.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000005103 00000 n 
+0000005173 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5248
+%%EOF
