@@ -17,7 +17,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://davi.dev";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Davi Ferreira | Estudante de Engenharia de Software • Michelin & UFAM",
+    default: "Davi Ferreira | Estudante de Engenharia de Software • Estagiário na Michelin",
     template: "%s",
   },
   description:
@@ -37,11 +37,29 @@ export const metadata: Metadata = {
     "Sockets TCP",
     "Manaus",
   ],
+  openGraph: {
+    type: "website",
+    locale: "pt_BR",
+    url: siteUrl,
+    siteName: "Davi Ferreira — Portfólio",
+    title: "Davi Ferreira | Estudante de Engenharia de Software • Estagiário na Michelin",
+    description:
+      "Davi Ferreira — Estudante de Engenharia de Software na UFAM e Estagiário de Processos Digitais na Michelin Manaus.",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Davi Ferreira | Estudante de Engenharia de Software na UFAM e Estagiário na Michelin",
+      },
+    ],
+  },
   twitter: {
     card: "summary_large_image",
-    title: "Davi Ferreira | Estudante de Engenharia de Software • Michelin & UFAM",
+    title: "Davi Ferreira | Estudante de Engenharia de Software • Estagiário na Michelin",
     description:
-      "Estudante de Engenharia de Software na UFAM e Estagiário de Processos Digitais na Michelin Manaus.",
+      "Davi Ferreira — Estudante de Engenharia de Software na UFAM e Estagiário de Processos Digitais na Michelin Manaus.",
+    images: ["/og-image.png"],
   },
 };
 

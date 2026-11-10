@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "build:pdf": "python3 scripts/generate-resumes.py",
+    "build:og": "python3 scripts/generate-og-image.py",
     "start": "next start",
     "lint": "eslint"
   },

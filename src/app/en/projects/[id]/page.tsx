@@ -28,11 +28,20 @@ export async function generateMetadata({
       description,
       type: "article",
       locale: "en_US",
+      images: [
+        {
+          url: project.image || "/og-image.png",
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: [project.image || "/og-image.png"],
     },
     alternates: {
       canonical: `/en/projects/${id}`,

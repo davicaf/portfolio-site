@@ -127,6 +127,7 @@ portfolio/
 | `npm start` | Inicia o servidor Node.js com a versão otimizada de produção |
 | `npm run lint` | Executa a validação de código com ESLint |
 | `npm run build:pdf` | Executa o script Python para regenerar os currículos em PDF |
+| `npm run build:og` | Executa o script Python para gerar a imagem Open Graph (`public/og-image.png`) |
 
 ---
 
